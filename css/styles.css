@@ -1,0 +1,60 @@
+a {
+    color: red;
+    margin: 30px;
+    font-family: Arial
+  }
+  a:hover {
+    color: white
+  }
+  a:visited {
+    color: purple
+  }
+  nav {
+    background-color: grey;
+    height: 30px;
+    padding-top: 15px;
+  }
+  header {
+    background-color: black;
+    height: 200px
+  }
+  header h1 {
+    color: white;
+    font-size: 40px;
+    padding-left: 50%;
+    padding-top: 20px;
+    font-family: Arial
+  }
+  header p {
+    color: white;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Arial
+  }
+  section1 h2 {
+    margin-top: 40px;
+    padding-left: 50%;
+    font-family: Arial
+  }
+  main ul {
+    padding-left: 40px;
+    font-family: Arial
+  }
+  section2 h2 {
+    margin-top: 40px;
+    padding-left: 50%;
+    font-family: Arial;
+  }
+  section2 p {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Arial;
+  }
+  a {
+    color: red;
+  }
+  img {
+    width: 400px;
+    height: 400px;
+  }
